@@ -1,3 +1,5 @@
+The files presented here are incomplete due to the constraints imposed by the file memory size. To obtain the complete code and models, please refer to the following link: https://doi.org/10.5281/zenodo.13340396
+
 Step 1: Create a new folder in D disk, named CODE_AMRTO, and create a subfolder named data under this folder
 Step 2: Install the dependency libraries in Python 3.8 :
 	pip install -r requirements.txt
