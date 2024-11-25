@@ -17,3 +17,4 @@ Step 5: Run PYTOCAD.py to generate the .json file and .3dm file (the source file
 # School of Aerospace Engineering, Tsinghua University, Beijing, 100084
 # Development Time: 2024/01/01
 # Python 3.8
+# AMRTO: Automated CAD model reconstruction of topology optimization result
